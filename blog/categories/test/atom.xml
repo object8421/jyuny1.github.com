@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[CY's note]]></title>
-  <link href="http://jyuny1.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: test | CY's note]]></title>
+  <link href="http://jyuny1.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://jyuny1.github.com/"/>
   <updated>2011-11-28T00:23:20+00:00</updated>
   <id>http://jyuny1.github.com/</id>
@@ -20,8 +20,7 @@
     <id>http://jyuny1.github.com/blog/2011/11/27/test</id>
     <content type="html"><![CDATA[<p>this is test page</p>
 
-<blockquote><p>Flying is learning how to throw yourself at the ground and miss.</p><footer><strong>Douglas Adams</strong><cite>The Hichhikers Guide to the Galaxy</cite></footer></blockquote>
-
+<p><blockquote><p>Flying is learning how to throw yourself at the ground and miss.</p><footer><strong>Douglas Adams</strong><cite>The Hichhikers Guide to the Galaxy</cite></footer></blockquote></p>
 ]]></content>
   </entry>
   
